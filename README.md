@@ -191,11 +191,6 @@ Future enhancements could include:
 
 ---
 
-## 📜 License
-
-MIT License (or choose your preferred license)
-
----
 
 ## 👨‍💻 Author
 
