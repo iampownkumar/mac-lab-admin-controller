@@ -1,5 +1,5 @@
 # Mac Lab Admin Controller
-
+![Mac Lab Status](assets/mac-all-status.png)
 A lightweight automation toolkit for managing multiple macOS lab machines using Fish shell and SSH.
 
 This project provides centralized control for tasks such as system status checks, remote reboot/shutdown, software deployment, and lab-wide notifications.
